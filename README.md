@@ -220,4 +220,3 @@ Hello from Jenkins, added webhook, we are from 14 July batch
 
 ![Application Output](screenshot/output.png)
 
-![Application Output](screenshots/output.png)
